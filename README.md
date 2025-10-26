@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # e_commerce_website
 
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> d518bbd (Initialize project using Create React App)
+=======
+# ecommerce_website
+>>>>>>> 5b49e1bd1a70189d58ad218b5993ba6135eaf5fc
